@@ -1,0 +1,484 @@
+[10/14/2016 14:35:15][                                  Main()] Starting Addon startup function
+[10/14/2016 14:35:15][                                  Main()] Initializing public SBO Application object
+[10/14/2016 14:35:15][                                  Main()] Retriving SBO application company handle
+[10/14/2016 14:35:16][                                  Main()] Retrived SBO application company handle
+[10/14/2016 14:35:16][                                  Main()] Calling ConnectDICompSSO()
+[10/14/2016 14:35:16][                      ConnectDICompSSO()] Starting function
+[10/14/2016 14:35:21][                      ConnectDICompSSO()] Completed with SUCCESS
+[10/14/2016 14:35:21][                                  Main()] Creating Event handler class
+[10/14/2016 14:35:21][                      Class_Initialize()] Starting function
+[10/14/2016 14:35:21][                      Class_Initialize()] Retriving SBO Application handle
+[10/14/2016 14:35:21][                      Class_Initialize()] Completed with SUCCESS
+[10/14/2016 14:35:21][                                  Main()] Calling AddMenuItems()
+[10/14/2016 14:35:21][                                  Main()] Calling SetApplication Function
+[10/14/2016 14:35:21][                                  Main()] Addon started successfully
+[10/14/2016 14:35:21][                                  Main()] Initializing Recordset 
+[10/14/2016 14:35:21][                                  Main()] Calling GetSystemIntializeInfo()
+[10/14/2016 14:35:21][                GetSystemIntializeInfo()] Starting Function
+[10/14/2016 14:35:21][                GetSystemIntializeInfo()] SQL-CRYSTALDETAILS  SELECT T0.[Code], T0.[Name] FROM [dbo].[@CRYSTALDETAILS]  T0
+[10/14/2016 14:35:21][                GetSystemIntializeInfo()] SQL-EMAIL  SELECT Top(1) T0.[U_SMTP], T0.[U_PORT], T0.[U_Email], T0.[U_Username], T0.[U_Password] FROM [dbo].[@AE_COMPANYDATA]  T0
+[10/14/2016 14:35:21][                GetSystemIntializeInfo()] SQL-EMAIL ID  SELECT T0.[GlblLocNum] FROM ADM1 T0
+[10/14/2016 14:35:21][                GetSystemIntializeInfo()] Completed with SUCCESS
+[10/14/2016 14:35:29][             SBO_Application_MenuEvent()] Starting function
+[10/14/2016 14:35:29][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/14/2016 14:35:29][             SBO_Application_MenuEvent()] Starting function
+[10/14/2016 14:35:29][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/14/2016 14:36:02][             SBO_Application_MenuEvent()] Starting function
+[10/14/2016 14:36:02][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/14/2016 14:36:02][             SBO_Application_MenuEvent()] Starting function
+[10/14/2016 14:36:02][                             MenuEvent()] LoadFromXML
+[10/14/2016 14:36:02][                           LoadFromXML()] Starting Function 
+[10/18/2016 10:35:19][                                  Main()] Starting Addon startup function
+[10/18/2016 10:35:19][                                  Main()] Initializing public SBO Application object
+[10/18/2016 10:35:19][                                  Main()] Retriving SBO application company handle
+[10/18/2016 10:35:19][                                  Main()] Retrived SBO application company handle
+[10/18/2016 10:35:19][                                  Main()] Calling ConnectDICompSSO()
+[10/18/2016 10:35:19][                      ConnectDICompSSO()] Starting function
+[10/18/2016 10:35:23][                      ConnectDICompSSO()] Completed with SUCCESS
+[10/18/2016 10:35:23][                                  Main()] Creating Event handler class
+[10/18/2016 10:35:23][                      Class_Initialize()] Starting function
+[10/18/2016 10:35:23][                      Class_Initialize()] Retriving SBO Application handle
+[10/18/2016 10:35:23][                      Class_Initialize()] Completed with SUCCESS
+[10/18/2016 10:35:23][                                  Main()] Calling AddMenuItems()
+[10/18/2016 10:35:23][                                  Main()] Calling SetApplication Function
+[10/18/2016 10:35:23][                                  Main()] Addon started successfully
+[10/18/2016 10:35:23][                                  Main()] Initializing Recordset 
+[10/18/2016 10:35:23][                                  Main()] Calling GetSystemIntializeInfo()
+[10/18/2016 10:35:24][                GetSystemIntializeInfo()] Starting Function
+[10/18/2016 10:35:24][                GetSystemIntializeInfo()] SQL-CRYSTALDETAILS  SELECT T0.[Code], T0.[Name] FROM [dbo].[@CRYSTALDETAILS]  T0
+[10/18/2016 10:35:24][                GetSystemIntializeInfo()] SQL-EMAIL  SELECT Top(1) T0.[U_SMTP], T0.[U_PORT], T0.[U_Email], T0.[U_Username], T0.[U_Password] FROM [dbo].[@AE_COMPANYDATA]  T0
+[10/18/2016 10:35:24][                GetSystemIntializeInfo()] SQL-EMAIL ID  SELECT T0.[GlblLocNum] FROM ADM1 T0
+[10/18/2016 10:35:24][                GetSystemIntializeInfo()] Completed with SUCCESS
+[10/18/2016 10:35:27][             SBO_Application_MenuEvent()] Starting function
+[10/18/2016 10:35:27][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/18/2016 10:35:27][             SBO_Application_MenuEvent()] Starting function
+[10/18/2016 10:35:27][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/18/2016 10:35:36][             SBO_Application_MenuEvent()] Starting function
+[10/18/2016 10:35:36][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/18/2016 10:35:36][             SBO_Application_MenuEvent()] Starting function
+[10/18/2016 10:35:36][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/18/2016 10:35:57][             SBO_Application_MenuEvent()] Starting function
+[10/18/2016 10:35:57][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/18/2016 10:35:57][             SBO_Application_MenuEvent()] Starting function
+[10/18/2016 10:35:57][                             MenuEvent()] LoadFromXML
+[10/18/2016 10:35:57][                           LoadFromXML()] LoadBatchActions 
+[10/18/2016 10:35:57][                        Set_Conditions()] Starting function
+[10/18/2016 10:35:57][                        Set_Conditions()] Completed with SUCCESS
+[10/18/2016 10:35:58][             SBO_Application_MenuEvent()] Starting function
+[10/18/2016 10:35:58][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/18/2016 10:35:58][             SBO_Application_MenuEvent()] Starting function
+[10/18/2016 10:35:58][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/18/2016 10:36:00][             SBO_Application_MenuEvent()] Starting function
+[10/18/2016 10:36:00][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/18/2016 10:36:00][             SBO_Application_MenuEvent()] Starting function
+[10/18/2016 10:36:00][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/18/2016 10:36:03][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:36:03][                      HeaderValidation()] Starting function
+[10/18/2016 10:36:03][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:36:03][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/18/2016 10:36:03][                  Loading_AgingDetails()] Starting function
+[10/18/2016 10:36:03][                  Loading_AgingDetails()] Calling AgingDate()
+[10/18/2016 10:36:03][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100001','20161018','1'
+[10/18/2016 10:36:04][                  Loading_AgingDetails()] Completed with ERROR
+[10/18/2016 10:36:11][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:36:11][                      HeaderValidation()] Starting function
+[10/18/2016 10:36:11][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:36:11][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/18/2016 10:36:11][                  Loading_AgingDetails()] Starting function
+[10/18/2016 10:36:11][                  Loading_AgingDetails()] Calling AgingDate()
+[10/18/2016 10:36:11][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100001','20161018','1'
+[10/18/2016 10:36:11][                  Loading_AgingDetails()] Completed with ERROR
+[10/18/2016 10:36:25][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:36:25][                      HeaderValidation()] Starting function
+[10/18/2016 10:36:25][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:36:25][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/18/2016 10:36:25][                  Loading_AgingDetails()] Starting function
+[10/18/2016 10:36:25][                  Loading_AgingDetails()] Calling AgingDate()
+[10/18/2016 10:36:25][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100691','20161018','1'
+[10/18/2016 10:36:26][                  Loading_AgingDetails()] Completed with ERROR
+[10/18/2016 10:36:54][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:36:54][                      HeaderValidation()] Starting function
+[10/18/2016 10:36:54][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:36:54][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/18/2016 10:36:54][                  Loading_AgingDetails()] Starting function
+[10/18/2016 10:36:54][                  Loading_AgingDetails()] Calling AgingDate()
+[10/18/2016 10:36:54][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100691','20161018','1'
+[10/18/2016 10:36:55][                  Loading_AgingDetails()] Completed with SUCCESS
+[10/18/2016 10:37:00][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:37:00][                      HeaderValidation()] Starting function
+[10/18/2016 10:37:01][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:37:01][             SBO_Application_ItemEvent()] Calling ExportToPDF() 
+[10/18/2016 10:37:02][                           ExportToPDF()] Starting Function
+[10/18/2016 10:37:02][                           ExportToPDF()] Report File Name:E:\Abeo-Projects\Abeo_Projects_WorkArea\MSCM\1. Source\SOA\AE_MSCM_V002\bin\Debug\Statement_of_Account_V2.rpt
+[10/18/2016 10:37:02][                           ExportToPDF()] Loading Report
+[10/18/2016 10:37:05][                           ExportToPDF()] Connection Information
+[10/18/2016 10:37:05][                           ExportToPDF()] Checking for subreport
+[10/18/2016 10:37:05][                           ExportToPDF()] Parameter Passing
+[10/18/2016 10:37:05][                           ExportToPDF()] Target File Name:E:\Abeo-Projects\Abeo_Projects_WorkArea\MSCM\1. Source\SOA\AE_MSCM_V002\bin\Debug\Statement of Account_18-10-2016.pdf
+[10/18/2016 10:37:05][                           ExportToPDF()] Before Export PDF
+[10/18/2016 10:37:09][                           ExportToPDF()] After Export PDF
+[10/18/2016 10:37:09][                           ExportToPDF()] Completed with SUCCESS
+[10/18/2016 10:37:09][                           ExportToPDF()] Calling EndStatus()
+[10/18/2016 10:37:09][                 SendEmailNotification()] Starting Function...
+[10/18/2016 10:37:10][                 SendEmailNotification()] Completed with SUCCESS
+[10/18/2016 10:37:10][                              ErrorLog()] Starting Function...
+[10/18/2016 10:37:10][                              ErrorLog()] Data Added successfuly
+[10/18/2016 10:37:10][                              ErrorLog()] Completed with SUCCESS
+[10/18/2016 10:53:39][                                  Main()] Starting Addon startup function
+[10/18/2016 10:53:39][                                  Main()] Initializing public SBO Application object
+[10/18/2016 10:53:39][                                  Main()] Retriving SBO application company handle
+[10/18/2016 10:53:39][                                  Main()] Retrived SBO application company handle
+[10/18/2016 10:53:39][                                  Main()] Calling ConnectDICompSSO()
+[10/18/2016 10:53:39][                      ConnectDICompSSO()] Starting function
+[10/18/2016 10:53:43][                      ConnectDICompSSO()] Completed with SUCCESS
+[10/18/2016 10:53:43][                                  Main()] Creating Event handler class
+[10/18/2016 10:53:43][                      Class_Initialize()] Starting function
+[10/18/2016 10:53:43][                      Class_Initialize()] Retriving SBO Application handle
+[10/18/2016 10:53:43][                      Class_Initialize()] Completed with SUCCESS
+[10/18/2016 10:53:43][                                  Main()] Calling AddMenuItems()
+[10/18/2016 10:53:43][                                  Main()] Calling SetApplication Function
+[10/18/2016 10:53:43][                                  Main()] Addon started successfully
+[10/18/2016 10:53:43][                                  Main()] Initializing Recordset 
+[10/18/2016 10:53:43][                                  Main()] Calling GetSystemIntializeInfo()
+[10/18/2016 10:53:43][                GetSystemIntializeInfo()] Starting Function
+[10/18/2016 10:53:43][                GetSystemIntializeInfo()] SQL-CRYSTALDETAILS  SELECT T0.[Code], T0.[Name] FROM [dbo].[@CRYSTALDETAILS]  T0
+[10/18/2016 10:53:43][                GetSystemIntializeInfo()] SQL-EMAIL  SELECT Top(1) T0.[U_SMTP], T0.[U_PORT], T0.[U_Email], T0.[U_Username], T0.[U_Password] FROM [dbo].[@AE_COMPANYDATA]  T0
+[10/18/2016 10:53:43][                GetSystemIntializeInfo()] SQL-EMAIL ID  SELECT T0.[GlblLocNum] FROM ADM1 T0
+[10/18/2016 10:53:43][                GetSystemIntializeInfo()] Completed with SUCCESS
+[10/18/2016 10:53:54][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:53:54][                      HeaderValidation()] Starting function
+[10/18/2016 10:53:54][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:53:54][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/18/2016 10:53:54][                  Loading_AgingDetails()] Starting function
+[10/18/2016 10:53:54][                  Loading_AgingDetails()] Calling AgingDate()
+[10/18/2016 10:53:54][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100691','20161018','1'
+[10/18/2016 10:53:55][                  Loading_AgingDetails()] Completed with ERROR
+[10/18/2016 10:54:01][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:54:01][                      HeaderValidation()] Starting function
+[10/18/2016 10:54:01][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:54:01][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/18/2016 10:54:01][                  Loading_AgingDetails()] Starting function
+[10/18/2016 10:54:01][                  Loading_AgingDetails()] Calling AgingDate()
+[10/18/2016 10:54:01][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100691','20161018','1'
+[10/18/2016 10:54:02][                  Loading_AgingDetails()] Completed with ERROR
+[10/18/2016 10:54:02][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:54:02][                      HeaderValidation()] Starting function
+[10/18/2016 10:54:02][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:54:02][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/18/2016 10:54:02][                  Loading_AgingDetails()] Starting function
+[10/18/2016 10:54:02][                  Loading_AgingDetails()] Calling AgingDate()
+[10/18/2016 10:54:02][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100691','20161018','1'
+[10/18/2016 10:54:02][                  Loading_AgingDetails()] Completed with ERROR
+[10/18/2016 10:54:04][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:54:04][                      HeaderValidation()] Starting function
+[10/18/2016 10:54:04][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:54:04][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/18/2016 10:54:04][                  Loading_AgingDetails()] Starting function
+[10/18/2016 10:54:04][                  Loading_AgingDetails()] Calling AgingDate()
+[10/18/2016 10:54:04][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100691','20161018','1'
+[10/18/2016 10:54:04][                  Loading_AgingDetails()] Completed with ERROR
+[10/18/2016 10:54:07][             SBO_Application_MenuEvent()] Starting function
+[10/18/2016 10:54:07][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/18/2016 10:54:07][             SBO_Application_MenuEvent()] Starting function
+[10/18/2016 10:54:07][                             MenuEvent()] LoadFromXML
+[10/18/2016 10:54:07][                           LoadFromXML()] LoadBatchActions 
+[10/18/2016 10:54:08][                        Set_Conditions()] Starting function
+[10/18/2016 10:54:08][                        Set_Conditions()] Completed with SUCCESS
+[10/18/2016 10:54:19][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:54:19][                      HeaderValidation()] Starting function
+[10/18/2016 10:54:19][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:54:19][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/18/2016 10:54:19][                  Loading_AgingDetails()] Starting function
+[10/18/2016 10:54:19][                  Loading_AgingDetails()] Calling AgingDate()
+[10/18/2016 10:54:19][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100001','20161018','1'
+[10/18/2016 10:54:20][                  Loading_AgingDetails()] Completed with ERROR
+[10/18/2016 10:54:25][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:54:25][                      HeaderValidation()] Starting function
+[10/18/2016 10:54:25][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:54:25][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/18/2016 10:54:25][                  Loading_AgingDetails()] Starting function
+[10/18/2016 10:54:25][                  Loading_AgingDetails()] Calling AgingDate()
+[10/18/2016 10:54:25][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100001','20161018','1'
+[10/18/2016 10:54:25][                  Loading_AgingDetails()] Completed with ERROR
+[10/18/2016 10:55:34][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:55:34][                      HeaderValidation()] Starting function
+[10/18/2016 10:55:34][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:55:34][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/18/2016 10:55:34][                  Loading_AgingDetails()] Starting function
+[10/18/2016 10:55:34][                  Loading_AgingDetails()] Calling AgingDate()
+[10/18/2016 10:55:34][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100001','20161018','1'
+[10/18/2016 10:55:35][                  Loading_AgingDetails()] Completed with SUCCESS
+[10/18/2016 10:55:35][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:55:35][                      HeaderValidation()] Starting function
+[10/18/2016 10:55:35][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:55:35][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/18/2016 10:55:35][                  Loading_AgingDetails()] Starting function
+[10/18/2016 10:55:35][                  Loading_AgingDetails()] Calling AgingDate()
+[10/18/2016 10:55:35][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100001','20161018','1'
+[10/18/2016 10:55:36][                  Loading_AgingDetails()] Completed with SUCCESS
+[10/18/2016 10:55:38][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:55:38][                      HeaderValidation()] Starting function
+[10/18/2016 10:55:38][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:55:38][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/18/2016 10:55:38][                  Loading_AgingDetails()] Starting function
+[10/18/2016 10:55:38][                  Loading_AgingDetails()] Calling AgingDate()
+[10/18/2016 10:55:38][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100001','20161018','1'
+[10/18/2016 10:55:38][                  Loading_AgingDetails()] Completed with SUCCESS
+[10/18/2016 10:55:43][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/18/2016 10:55:43][                      HeaderValidation()] Starting function
+[10/18/2016 10:55:43][                      HeaderValidation()] Completed with SUCCESS
+[10/18/2016 10:55:43][             SBO_Application_ItemEvent()] Calling ExportToPDF() 
+[10/18/2016 10:55:44][                           ExportToPDF()] Starting Function
+[10/18/2016 10:55:44][                           ExportToPDF()] Report File Name:E:\Abeo-Projects\Abeo_Projects_WorkArea\MSCM\1. Source\SOA\AE_MSCM_V002\bin\Debug\Statement_of_Account_V2.rpt
+[10/18/2016 10:55:44][                           ExportToPDF()] Loading Report
+[10/18/2016 10:55:45][                           ExportToPDF()] Connection Information
+[10/18/2016 10:55:45][                           ExportToPDF()] Checking for subreport
+[10/18/2016 10:55:45][                           ExportToPDF()] Parameter Passing
+[10/18/2016 10:55:45][                           ExportToPDF()] Target File Name:E:\Abeo-Projects\Abeo_Projects_WorkArea\MSCM\1. Source\SOA\AE_MSCM_V002\bin\Debug\Statement of Account_18-10-2016.pdf
+[10/18/2016 10:55:45][                           ExportToPDF()] Before Export PDF
+[10/18/2016 10:55:46][                           ExportToPDF()] After Export PDF
+[10/18/2016 10:55:46][                           ExportToPDF()] Completed with SUCCESS
+[10/18/2016 10:55:46][                           ExportToPDF()] Calling EndStatus()
+[10/18/2016 10:55:46][                 SendEmailNotification()] Starting Function...
+[10/18/2016 10:55:46][                 SendEmailNotification()] Completed with SUCCESS
+[10/18/2016 10:55:46][                              ErrorLog()] Starting Function...
+[10/18/2016 10:55:46][                              ErrorLog()] Data Added successfuly
+[10/18/2016 10:55:46][                              ErrorLog()] Completed with SUCCESS
+[10/24/2016 15:56:28][                                  Main()] Starting Addon startup function
+[10/24/2016 15:56:28][                                  Main()] Initializing public SBO Application object
+[10/24/2016 15:56:28][                                  Main()] Retriving SBO application company handle
+[10/24/2016 15:56:28][                                  Main()] Retrived SBO application company handle
+[10/24/2016 15:56:28][                                  Main()] Calling ConnectDICompSSO()
+[10/24/2016 15:56:28][                      ConnectDICompSSO()] Starting function
+[10/24/2016 15:56:33][                      ConnectDICompSSO()] Completed with SUCCESS
+[10/24/2016 15:56:33][                                  Main()] Creating Event handler class
+[10/24/2016 15:56:33][                      Class_Initialize()] Starting function
+[10/24/2016 15:56:33][                      Class_Initialize()] Retriving SBO Application handle
+[10/24/2016 15:56:33][                      Class_Initialize()] Completed with SUCCESS
+[10/24/2016 15:56:33][                                  Main()] Calling AddMenuItems()
+[10/24/2016 15:56:33][                                  Main()] Calling SetApplication Function
+[10/24/2016 15:56:33][                                  Main()] Addon started successfully
+[10/24/2016 15:56:33][                                  Main()] Initializing Recordset 
+[10/24/2016 15:56:33][                                  Main()] Calling GetSystemIntializeInfo()
+[10/24/2016 15:56:33][                GetSystemIntializeInfo()] Starting Function
+[10/24/2016 15:56:33][                GetSystemIntializeInfo()] SQL-CRYSTALDETAILS  SELECT T0.[Code], T0.[Name] FROM [dbo].[@CRYSTALDETAILS]  T0
+[10/24/2016 15:56:33][                GetSystemIntializeInfo()] SQL-EMAIL  SELECT Top(1) T0.[U_SMTP], T0.[U_PORT], T0.[U_Email], T0.[U_Username], T0.[U_Password] FROM [dbo].[@AE_COMPANYDATA]  T0
+[10/24/2016 15:56:33][                GetSystemIntializeInfo()] SQL-EMAIL ID  SELECT T0.[GlblLocNum] FROM ADM1 T0
+[10/24/2016 15:56:33][                GetSystemIntializeInfo()] Completed with SUCCESS
+[10/24/2016 15:56:36][             SBO_Application_MenuEvent()] Starting function
+[10/24/2016 15:56:36][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/24/2016 15:56:36][             SBO_Application_MenuEvent()] Starting function
+[10/24/2016 15:56:36][                             MenuEvent()] LoadFromXML
+[10/24/2016 15:56:36][                           LoadFromXML()] LoadBatchActions 
+[10/24/2016 15:56:36][                        Set_Conditions()] Starting function
+[10/24/2016 15:56:36][                        Set_Conditions()] Completed with SUCCESS
+[10/24/2016 15:56:52][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/24/2016 15:56:52][                      HeaderValidation()] Starting function
+[10/24/2016 15:56:52][                      HeaderValidation()] Completed with SUCCESS
+[10/24/2016 15:56:52][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[10/24/2016 15:56:52][                  Loading_AgingDetails()] Starting function
+[10/24/2016 15:56:52][                  Loading_AgingDetails()] Calling AgingDate()
+[10/24/2016 15:56:52][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100691','20161024','1'
+[10/24/2016 15:56:53][                  Loading_AgingDetails()] Completed with SUCCESS
+[10/24/2016 15:56:58][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[10/24/2016 15:56:58][                      HeaderValidation()] Starting function
+[10/24/2016 15:56:58][                      HeaderValidation()] Completed with SUCCESS
+[10/24/2016 15:56:58][             SBO_Application_ItemEvent()] Calling ExportToPDF() 
+[10/24/2016 15:56:58][                           ExportToPDF()] Starting Function
+[10/24/2016 15:56:58][                           ExportToPDF()] Report File Name:E:\Abeo-Projects\Abeo_Projects_WorkArea\MSCM\1. Source\SOA\AE_MSCM_V002\bin\Debug\Statement_of_Account_V2.rpt
+[10/24/2016 15:56:58][                           ExportToPDF()] Loading Report
+[10/24/2016 15:57:00][                           ExportToPDF()] Connection Information
+[10/24/2016 15:57:00][                           ExportToPDF()] Checking for subreport
+[10/24/2016 15:57:01][                           ExportToPDF()] Parameter Passing
+[10/24/2016 15:57:01][                           ExportToPDF()] Target File Name:E:\Abeo-Projects\Abeo_Projects_WorkArea\MSCM\1. Source\SOA\AE_MSCM_V002\bin\Debug\Statement of Account_24-10-2016.pdf
+[10/24/2016 15:57:01][                           ExportToPDF()] Before Export PDF
+[10/24/2016 15:57:02][                           ExportToPDF()] After Export PDF
+[10/24/2016 15:57:02][                           ExportToPDF()] Completed with SUCCESS
+[10/24/2016 15:57:02][                           ExportToPDF()] Calling EndStatus()
+[10/24/2016 15:57:02][                 SendEmailNotification()] Starting Function...
+[10/24/2016 15:57:04][                 SendEmailNotification()] Completed with SUCCESS
+[10/24/2016 15:57:04][                              ErrorLog()] Starting Function...
+[10/24/2016 15:57:04][                              ErrorLog()] Data Added successfuly
+[10/24/2016 15:57:04][                              ErrorLog()] Completed with SUCCESS
+[10/24/2016 15:58:45][             SBO_Application_MenuEvent()] Starting function
+[10/24/2016 15:58:45][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/24/2016 15:58:47][             SBO_Application_MenuEvent()] Starting function
+[10/24/2016 15:58:47][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/24/2016 15:58:48][              SBO_Application_AppEvent()] Starting function
+[12/21/2016 11:50:46][                                  Main()] Starting Addon startup function
+[12/21/2016 11:50:46][                                  Main()] Initializing public SBO Application object
+[12/21/2016 11:50:46][                                  Main()] Retriving SBO application company handle
+[12/21/2016 11:50:47][                                  Main()] Retrived SBO application company handle
+[12/21/2016 11:50:47][                                  Main()] Calling ConnectDICompSSO()
+[12/21/2016 11:50:47][                      ConnectDICompSSO()] Starting function
+[12/21/2016 11:50:50][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/21/2016 11:50:50][                                  Main()] Creating Event handler class
+[12/21/2016 11:50:50][                      Class_Initialize()] Starting function
+[12/21/2016 11:50:50][                      Class_Initialize()] Retriving SBO Application handle
+[12/21/2016 11:50:50][                      Class_Initialize()] Completed with SUCCESS
+[12/21/2016 11:50:50][                                  Main()] Calling AddMenuItems()
+[12/21/2016 11:50:50][                                  Main()] Calling SetApplication Function
+[12/21/2016 11:50:50][                                  Main()] Addon started successfully
+[12/21/2016 11:50:50][                                  Main()] Initializing Recordset 
+[12/21/2016 11:50:50][                                  Main()] Calling GetSystemIntializeInfo()
+[12/21/2016 11:50:50][                GetSystemIntializeInfo()] Starting Function
+[12/21/2016 11:50:50][                GetSystemIntializeInfo()] SQL-CRYSTALDETAILS  SELECT T0.[Code], T0.[Name] FROM [dbo].[@CRYSTALDETAILS]  T0
+[12/21/2016 11:50:50][                GetSystemIntializeInfo()] SQL-EMAIL  SELECT Top(1) T0.[U_SMTP], T0.[U_PORT], T0.[U_Email], T0.[U_Username], T0.[U_Password] FROM [dbo].[@AE_COMPANYDATA]  T0
+[12/21/2016 11:50:50][                GetSystemIntializeInfo()] SQL-EMAIL ID  SELECT T0.[GlblLocNum] FROM ADM1 T0
+[12/21/2016 11:50:50][                GetSystemIntializeInfo()] Completed with SUCCESS
+[12/21/2016 11:53:16][                                  Main()] Starting Addon startup function
+[12/21/2016 11:53:16][                                  Main()] Initializing public SBO Application object
+[12/21/2016 11:53:16][                                  Main()] Retriving SBO application company handle
+[12/21/2016 11:53:16][                                  Main()] Retrived SBO application company handle
+[12/21/2016 11:53:16][                                  Main()] Calling ConnectDICompSSO()
+[12/21/2016 11:53:16][                      ConnectDICompSSO()] Starting function
+[12/21/2016 11:53:19][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/21/2016 11:53:19][                                  Main()] Creating Event handler class
+[12/21/2016 11:53:19][                      Class_Initialize()] Starting function
+[12/21/2016 11:53:19][                      Class_Initialize()] Retriving SBO Application handle
+[12/21/2016 11:53:19][                      Class_Initialize()] Completed with SUCCESS
+[12/21/2016 11:53:19][                                  Main()] Calling AddMenuItems()
+[12/21/2016 11:53:19][                                  Main()] Calling SetApplication Function
+[12/21/2016 11:53:19][                                  Main()] Addon started successfully
+[12/21/2016 11:53:19][                                  Main()] Initializing Recordset 
+[12/21/2016 11:53:19][                                  Main()] Calling GetSystemIntializeInfo()
+[12/21/2016 11:53:19][                GetSystemIntializeInfo()] Starting Function
+[12/21/2016 11:53:19][                GetSystemIntializeInfo()] SQL-CRYSTALDETAILS  SELECT T0.[Code], T0.[Name] FROM [dbo].[@CRYSTALDETAILS]  T0
+[12/21/2016 11:53:19][                GetSystemIntializeInfo()] SQL-EMAIL  SELECT Top(1) T0.[U_SMTP], T0.[U_PORT], T0.[U_Email], T0.[U_Username], T0.[U_Password] FROM [dbo].[@AE_COMPANYDATA]  T0
+[12/21/2016 11:53:19][                GetSystemIntializeInfo()] SQL-EMAIL ID  SELECT T0.[GlblLocNum] FROM ADM1 T0
+[12/21/2016 11:53:19][                GetSystemIntializeInfo()] Completed with SUCCESS
+[12/21/2016 11:53:22][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 11:53:22][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 11:53:22][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 11:53:22][                             MenuEvent()] LoadFromXML
+[12/21/2016 11:53:22][                           LoadFromXML()] LoadBatchActions 
+[12/21/2016 11:53:23][                        Set_Conditions()] Starting function
+[12/21/2016 11:53:23][                        Set_Conditions()] Completed with SUCCESS
+[12/21/2016 11:53:30][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 11:53:30][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 11:53:31][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 11:53:31][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 11:53:42][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 11:53:42][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 11:53:42][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 11:53:42][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 11:59:47][                                  Main()] Starting Addon startup function
+[12/21/2016 11:59:47][                                  Main()] Initializing public SBO Application object
+[12/21/2016 11:59:47][                                  Main()] Retriving SBO application company handle
+[12/21/2016 11:59:48][                                  Main()] Retrived SBO application company handle
+[12/21/2016 11:59:48][                                  Main()] Calling ConnectDICompSSO()
+[12/21/2016 11:59:48][                      ConnectDICompSSO()] Starting function
+[12/21/2016 11:59:50][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/21/2016 11:59:50][                                  Main()] Creating Event handler class
+[12/21/2016 11:59:50][                      Class_Initialize()] Starting function
+[12/21/2016 11:59:50][                      Class_Initialize()] Retriving SBO Application handle
+[12/21/2016 11:59:50][                      Class_Initialize()] Completed with SUCCESS
+[12/21/2016 11:59:50][                                  Main()] Calling AddMenuItems()
+[12/21/2016 11:59:50][                                  Main()] Calling SetApplication Function
+[12/21/2016 11:59:50][                                  Main()] Addon started successfully
+[12/21/2016 11:59:50][                                  Main()] Initializing Recordset 
+[12/21/2016 11:59:50][                                  Main()] Calling GetSystemIntializeInfo()
+[12/21/2016 11:59:50][                GetSystemIntializeInfo()] Starting Function
+[12/21/2016 11:59:50][                GetSystemIntializeInfo()] SQL-CRYSTALDETAILS  SELECT T0.[Code], T0.[Name] FROM [dbo].[@CRYSTALDETAILS]  T0
+[12/21/2016 11:59:50][                GetSystemIntializeInfo()] SQL-EMAIL  SELECT Top(1) T0.[U_SMTP], T0.[U_PORT], T0.[U_Email], T0.[U_Username], T0.[U_Password] FROM [dbo].[@AE_COMPANYDATA]  T0
+[12/21/2016 11:59:50][                GetSystemIntializeInfo()] SQL-EMAIL ID  SELECT T0.[GlblLocNum] FROM ADM1 T0
+[12/21/2016 11:59:50][                GetSystemIntializeInfo()] Completed with SUCCESS
+[12/21/2016 11:59:58][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 11:59:58][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 11:59:58][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 11:59:58][                             MenuEvent()] LoadFromXML
+[12/21/2016 11:59:58][                           LoadFromXML()] LoadBatchActions 
+[12/21/2016 11:59:58][                        Set_Conditions()] Starting function
+[12/21/2016 11:59:58][                        Set_Conditions()] Completed with SUCCESS
+[12/21/2016 12:00:09][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:00:09][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:00:10][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:00:10][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:01:28][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:01:28][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:01:28][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:01:28][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:01:30][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:01:30][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:01:30][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:01:30][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:01:37][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[12/21/2016 12:01:37][                      HeaderValidation()] Starting function
+[12/21/2016 12:01:37][                      HeaderValidation()] Completed with SUCCESS
+[12/21/2016 12:01:37][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[12/21/2016 12:01:37][                  Loading_AgingDetails()] Starting function
+[12/21/2016 12:01:37][                  Loading_AgingDetails()] Calling AgingDate()
+[12/21/2016 12:01:37][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIV100007','WIV100100','20161221','1'
+[12/21/2016 12:01:38][                  Loading_AgingDetails()] Completed with SUCCESS
+[12/21/2016 12:01:45][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[12/21/2016 12:01:45][                      HeaderValidation()] Starting function
+[12/21/2016 12:01:45][                      HeaderValidation()] Completed with SUCCESS
+[12/21/2016 12:01:45][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[12/21/2016 12:01:45][                  Loading_AgingDetails()] Starting function
+[12/21/2016 12:01:45][                  Loading_AgingDetails()] Calling AgingDate()
+[12/21/2016 12:01:45][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIV100007','WIV100100','20161221','1'
+[12/21/2016 12:01:46][                  Loading_AgingDetails()] Completed with SUCCESS
+[12/21/2016 12:15:51][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:15:51][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:15:51][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:15:51][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:15:52][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:15:52][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:15:52][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:15:52][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:16:00][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[12/21/2016 12:16:00][                      HeaderValidation()] Starting function
+[12/21/2016 12:16:00][                      HeaderValidation()] Completed with SUCCESS
+[12/21/2016 12:16:00][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[12/21/2016 12:16:00][                  Loading_AgingDetails()] Starting function
+[12/21/2016 12:16:00][                  Loading_AgingDetails()] Calling AgingDate()
+[12/21/2016 12:16:09][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100652','20161221','1'
+[12/21/2016 12:16:11][                  Loading_AgingDetails()] Completed with SUCCESS
+[12/21/2016 12:16:28][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:16:28][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:16:28][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:16:28][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:16:57][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:16:57][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:16:57][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:16:57][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:01][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:01][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:01][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:01][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:02][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:02][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:02][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:02][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:07][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:07][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:07][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:07][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:11][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:11][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:11][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:11][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:13][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:13][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:13][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:13][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:16][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:16][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:16][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:16][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:18][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:18][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:19][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:17:19][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:17:39][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[12/21/2016 12:17:39][                      HeaderValidation()] Starting function
+[12/21/2016 12:17:39][                      HeaderValidation()] Completed with SUCCESS
+[12/21/2016 12:17:39][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[12/21/2016 12:17:39][                  Loading_AgingDetails()] Starting function
+[12/21/2016 12:17:39][                  Loading_AgingDetails()] Calling AgingDate()
+[12/21/2016 12:17:39][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP004'WIC100001','WIC100691','20161221','1'
+[12/21/2016 12:17:40][                  Loading_AgingDetails()] Completed with SUCCESS
+[12/21/2016 12:18:01][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:18:01][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/21/2016 12:18:01][             SBO_Application_MenuEvent()] Starting function
+[12/21/2016 12:18:01][             SBO_Application_MenuEvent()] Completed with SUCCESS

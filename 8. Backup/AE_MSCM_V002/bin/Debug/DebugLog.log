@@ -1,0 +1,30 @@
+[10/14/2016 14:35:15][                                  Main()] Starting Addon startup function
+[10/14/2016 14:35:15][                                  Main()] Initializing public SBO Application object
+[10/14/2016 14:35:15][                                  Main()] Retriving SBO application company handle
+[10/14/2016 14:35:16][                                  Main()] Retrived SBO application company handle
+[10/14/2016 14:35:16][                                  Main()] Calling ConnectDICompSSO()
+[10/14/2016 14:35:16][                      ConnectDICompSSO()] Starting function
+[10/14/2016 14:35:21][                      ConnectDICompSSO()] Completed with SUCCESS
+[10/14/2016 14:35:21][                                  Main()] Creating Event handler class
+[10/14/2016 14:35:21][                      Class_Initialize()] Starting function
+[10/14/2016 14:35:21][                      Class_Initialize()] Retriving SBO Application handle
+[10/14/2016 14:35:21][                      Class_Initialize()] Completed with SUCCESS
+[10/14/2016 14:35:21][                                  Main()] Calling AddMenuItems()
+[10/14/2016 14:35:21][                                  Main()] Calling SetApplication Function
+[10/14/2016 14:35:21][                                  Main()] Addon started successfully
+[10/14/2016 14:35:21][                                  Main()] Initializing Recordset 
+[10/14/2016 14:35:21][                                  Main()] Calling GetSystemIntializeInfo()
+[10/14/2016 14:35:21][                GetSystemIntializeInfo()] Starting Function
+[10/14/2016 14:35:21][                GetSystemIntializeInfo()] SQL-CRYSTALDETAILS  SELECT T0.[Code], T0.[Name] FROM [dbo].[@CRYSTALDETAILS]  T0
+[10/14/2016 14:35:21][                GetSystemIntializeInfo()] SQL-EMAIL  SELECT Top(1) T0.[U_SMTP], T0.[U_PORT], T0.[U_Email], T0.[U_Username], T0.[U_Password] FROM [dbo].[@AE_COMPANYDATA]  T0
+[10/14/2016 14:35:21][                GetSystemIntializeInfo()] SQL-EMAIL ID  SELECT T0.[GlblLocNum] FROM ADM1 T0
+[10/14/2016 14:35:21][                GetSystemIntializeInfo()] Completed with SUCCESS
+[10/14/2016 14:35:29][             SBO_Application_MenuEvent()] Starting function
+[10/14/2016 14:35:29][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/14/2016 14:35:29][             SBO_Application_MenuEvent()] Starting function
+[10/14/2016 14:35:29][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/14/2016 14:36:02][             SBO_Application_MenuEvent()] Starting function
+[10/14/2016 14:36:02][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[10/14/2016 14:36:02][             SBO_Application_MenuEvent()] Starting function
+[10/14/2016 14:36:02][                             MenuEvent()] LoadFromXML
+[10/14/2016 14:36:02][                           LoadFromXML()] Starting Function 
