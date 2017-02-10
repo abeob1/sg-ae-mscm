@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AE_MSCM_GAF", "AE_MSCM_GAF\AE_MSCM_GAF.vbproj", "{E4F172FD-B12D-4334-AAC8-AD09D1B96D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4F172FD-B12D-4334-AAC8-AD09D1B96D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F172FD-B12D-4334-AAC8-AD09D1B96D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F172FD-B12D-4334-AAC8-AD09D1B96D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F172FD-B12D-4334-AAC8-AD09D1B96D99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
