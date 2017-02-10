@@ -1,0 +1,76 @@
+[01/29/2015 15:40:38][                         GenerateXMlFile] Conversion from string "" to type 'Double' is not valid.
+[01/29/2015 16:15:22][                         GenerateXMlFile] Could not find a part of the path 'F:\Application\SAP B1\SVN\WWRC\ae-sgwwrc\AE_WWRC_V001\bin\Debug\g\GSTAuditFile_201501291615.xml'.
+[01/29/2015 16:15:22][                            GSTAuditFile] 
+[01/29/2015 16:15:22][             SBO_Application_ItemEvent()] Procedure call or argument is not valid.
+[10/20/2015 19:48:17][                GetSystemIntializeInfo()] Invalid field name
+[10/20/2015 19:48:17][                                  Main()] Exception of type 'System.ArgumentException' was thrown.
+[10/20/2015 19:50:14][                           ExportToPDF()] Memory full.Failed to export the report.
+Not enough memory for operation.
+[10/20/2015 19:50:15][             SBO_Application_ItemEvent()] Memory full.Failed to export the report.
+Not enough memory for operation.
+[11/30/2015 12:51:41][                           ExportToPDF()] This field name is not known.Error in File C:\Users\John\AppData\Local\Temp\2\Statement_of_Account_V2 {2A22ED06-5E25-4AEE-BA27-37CD91E16EA9}.rpt:
+Error in formula  <LastMonth>. 
+'if DATE(YEAR({OBT_STD_RPT003_CustomerStatement;1.DocDate}),MONTH({OBT_STD_RPT003_CustomerStatement;1.DocDate}),01) = DATEADD("m",-1,DATE(YEAR({?@DateTo}),MONTH({?@DateTo}),01)) then'
+This field name is not known.
+[11/30/2015 12:51:41][             SBO_Application_ItemEvent()] This field name is not known.Error in File C:\Users\John\AppData\Local\Temp\2\Statement_of_Account_V2 {2A22ED06-5E25-4AEE-BA27-37CD91E16EA9}.rpt:
+Error in formula  <LastMonth>. 
+'if DATE(YEAR({OBT_STD_RPT003_CustomerStatement;1.DocDate}),MONTH({OBT_STD_RPT003_CustomerStatement;1.DocDate}),01) = DATEADD("m",-1,DATE(YEAR({?@DateTo}),MONTH({?@DateTo}),01)) then'
+This field name is not known.
+[09/07/2016 00:07:06][                                  Main()] Connection - Could not find SBO that match the connection string
+[09/07/2016 00:18:34][            HeaderValidation_AuditFile()] Item - Invalid item  [66000-3]. Form Unique Id: 'editor', Item Unique Id: 'txtFrmDate'
+[09/07/2016 00:18:34][             SBO_Application_ItemEvent()] Item - Invalid item  [66000-3]. Form Unique Id: 'editor', Item Unique Id: '8'
+[09/09/2016 15:15:42][                            GSTAuditFile] Object variable or With block variable not set.
+[09/09/2016 15:15:43][             SBO_Application_ItemEvent()] Procedure call or argument is not valid.
+[09/09/2016 15:19:58][                            GSTAuditFile] Object variable or With block variable not set.
+[09/09/2016 15:19:58][             SBO_Application_ItemEvent()] Procedure call or argument is not valid.
+[09/09/2016 15:35:56][                              GetDataSet] Procedure or function AE_SP001_AuditFileReport has too many arguments specified.
+[09/09/2016 15:35:56][                         GenerateXMlFile] Object reference not set to an instance of an object.
+[09/09/2016 15:35:56][                            GSTAuditFile] Procedure or function AE_SP001_AuditFileReport has too many arguments specified.
+[09/09/2016 15:35:56][             SBO_Application_ItemEvent()] Procedure or function AE_SP001_AuditFileReport has too many arguments specified.
+[09/09/2016 15:53:53][                         GenerateXMlFile] Cannot find table 4.
+[09/09/2016 15:53:53][                            GSTAuditFile] 
+[09/09/2016 15:53:53][             SBO_Application_ItemEvent()] Procedure call or argument is not valid.
+[09/09/2016 15:54:56][                         GenerateXMlFile] Cannot find table 4.
+[09/09/2016 15:54:56][                            GSTAuditFile] 
+[09/09/2016 15:54:56][             SBO_Application_ItemEvent()] Procedure call or argument is not valid.
+[09/09/2016 15:57:45][                         GenerateXMlFile] Cannot find table 4.
+[09/09/2016 15:57:45][                            GSTAuditFile] 
+[09/09/2016 15:57:45][             SBO_Application_ItemEvent()] Procedure call or argument is not valid.
+[09/09/2016 15:58:29][                         GenerateXMlFile] Cannot find table 4.
+[09/09/2016 15:58:29][                            GSTAuditFile] 
+[09/09/2016 15:58:29][             SBO_Application_ItemEvent()] Procedure call or argument is not valid.
+[09/09/2016 16:05:39][                         GenerateXMlFile] Cannot find table 4.
+[09/09/2016 16:05:39][                            GSTAuditFile] 
+[09/09/2016 16:05:39][             SBO_Application_ItemEvent()] Procedure call or argument is not valid.
+[09/09/2016 16:08:26][                         GenerateXMlFile] Column 'TransactionDate' does not belong to table LedgerEntry.
+[09/09/2016 16:08:26][                            GSTAuditFile] 
+[09/09/2016 16:08:26][             SBO_Application_ItemEvent()] Procedure call or argument is not valid.
+[09/09/2016 16:19:06][                         GenerateXMlFile] Column 'TransactionDate' does not belong to table LedgerEntry.
+[09/09/2016 16:19:07][                            GSTAuditFile] 
+[09/09/2016 16:19:07][             SBO_Application_ItemEvent()] Procedure call or argument is not valid.
+[09/09/2016 16:19:46][                         GenerateXMlFile] Cannot find table 4.
+[09/09/2016 16:19:46][                            GSTAuditFile] 
+[09/09/2016 16:19:46][             SBO_Application_ItemEvent()] Procedure call or argument is not valid.
+[09/09/2016 16:20:17][                         GenerateXMlFile] Cannot find table 4.
+[09/09/2016 16:20:18][                            GSTAuditFile] 
+[09/09/2016 16:20:18][             SBO_Application_ItemEvent()] Procedure call or argument is not valid.
+[09/09/2016 16:29:02][                              GetDataSet] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:29:26][                         GenerateXMlFile] Object reference not set to an instance of an object.
+[09/09/2016 16:29:26][                            GSTAuditFile] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:29:26][             SBO_Application_ItemEvent()] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:29:28][                              GetDataSet] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:30:36][                         GenerateXMlFile] Object reference not set to an instance of an object.
+[09/09/2016 16:30:36][                            GSTAuditFile] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:30:36][             SBO_Application_ItemEvent()] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:30:39][                              GetDataSet] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:32:14][                         GenerateXMlFile] Object reference not set to an instance of an object.
+[09/09/2016 16:32:14][                            GSTAuditFile] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:32:14][             SBO_Application_ItemEvent()] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:32:17][                              GetDataSet] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:33:07][                         GenerateXMlFile] Object reference not set to an instance of an object.
+[09/09/2016 16:33:07][                            GSTAuditFile] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:33:07][             SBO_Application_ItemEvent()] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:34:54][                              GetDataSet] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:34:57][                         GenerateXMlFile] Object reference not set to an instance of an object.
+[09/09/2016 16:34:57][                            GSTAuditFile] Invalid object name '@GAFRPTSETUP'.
+[09/09/2016 16:34:58][             SBO_Application_ItemEvent()] Invalid object name '@GAFRPTSETUP'.

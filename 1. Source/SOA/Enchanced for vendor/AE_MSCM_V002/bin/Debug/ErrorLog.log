@@ -1,0 +1,31 @@
+[10/18/2016 10:36:04][                  Loading_AgingDetails()] Invalid query tree  [300-33]. The SQL error is 2714
+[10/18/2016 10:36:11][                  Loading_AgingDetails()] Invalid query tree  [300-33]. The SQL error is 2714
+[10/18/2016 10:36:26][                  Loading_AgingDetails()] Invalid query tree  [300-33]. The SQL error is 2714
+[10/18/2016 10:53:55][                  Loading_AgingDetails()] Invalid query tree  [300-33]. The SQL error is 2714
+[10/18/2016 10:54:02][                  Loading_AgingDetails()] Invalid query tree  [300-33]. The SQL error is 2714
+[10/18/2016 10:54:02][                  Loading_AgingDetails()] Invalid query tree  [300-33]. The SQL error is 2714
+[10/18/2016 10:54:04][                  Loading_AgingDetails()] Invalid query tree  [300-33]. The SQL error is 2714
+[10/18/2016 10:54:20][                  Loading_AgingDetails()] Invalid query tree  [300-33]. The SQL error is 2714
+[10/18/2016 10:54:25][                  Loading_AgingDetails()] Invalid query tree  [300-33]. The SQL error is 2714
+[12/21/2016 15:42:01][                        Set_Conditions()] Object reference not set to an instance of an object.
+[12/21/2016 15:44:18][                        Set_Conditions()] Object reference not set to an instance of an object.
+[12/21/2016 15:46:50][                        Set_Conditions()] Object reference not set to an instance of an object.
+[12/21/2016 15:48:04][                        Set_Conditions()] Object reference not set to an instance of an object.
+[12/22/2016 18:18:03][                  Loading_AgingDetails()] Public member 'String' on type 'IComboBox' not found.
+[12/22/2016 18:18:23][                  Loading_AgingDetails()] Public member 'String' on type 'IComboBox' not found.
+[12/22/2016 19:24:09][                           ExportToPDF()] Error in File Statement_of_Account_V2 {E7B9D313-611A-45F2-8AB7-4DE939A9D434}.rpt:
+Operation illegal on linked parameter.
+[12/22/2016 19:24:09][             SBO_Application_ItemEvent()] Error in File Statement_of_Account_V2 {E7B9D313-611A-45F2-8AB7-4DE939A9D434}.rpt:
+Operation illegal on linked parameter.
+[12/22/2016 19:44:55][                           ExportToPDF()] Error in File Statement_of_Account_V2 {6D0E1C18-F1D2-4D25-AE52-E8FB9BBF6F99}.rpt:
+Operation illegal on linked parameter.
+[12/22/2016 19:44:56][             SBO_Application_ItemEvent()] Error in File Statement_of_Account_V2 {6D0E1C18-F1D2-4D25-AE52-E8FB9BBF6F99}.rpt:
+Operation illegal on linked parameter.
+[12/22/2016 19:48:56][                           ExportToPDF()] Error in File Statement_of_Account_V2 {FBC72ACC-DED0-4997-BCDC-01912A4341E5}.rpt:
+Operation illegal on linked parameter.
+[12/22/2016 19:48:56][             SBO_Application_ItemEvent()] Error in File Statement_of_Account_V2 {FBC72ACC-DED0-4997-BCDC-01912A4341E5}.rpt:
+Operation illegal on linked parameter.
+[12/22/2016 19:58:48][                           ExportToPDF()] Error in File Statement_of_Account_V2 {BF4705CA-57B4-4F68-8CE3-40591882388C}.rpt:
+Operation illegal on linked parameter.
+[12/22/2016 19:58:48][             SBO_Application_ItemEvent()] Error in File Statement_of_Account_V2 {BF4705CA-57B4-4F68-8CE3-40591882388C}.rpt:
+Operation illegal on linked parameter.

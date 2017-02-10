@@ -1,0 +1,68 @@
+[09/16/2016 11:56:32][                                  Main()] Starting Addon startup function
+[09/16/2016 11:56:32][                                  Main()] Initializing public SBO Application object
+[09/16/2016 11:56:32][                                  Main()] Retriving SBO application company handle
+[09/16/2016 11:56:32][                                  Main()] Retrived SBO application company handle
+[09/16/2016 11:56:32][                                  Main()] Calling ConnectDICompSSO()
+[09/16/2016 11:56:32][                      ConnectDICompSSO()] Starting function
+[09/16/2016 11:56:37][                      ConnectDICompSSO()] Completed with SUCCESS
+[09/16/2016 11:56:37][                                  Main()] Creating Event handler class
+[09/16/2016 11:56:37][                      Class_Initialize()] Starting function
+[09/16/2016 11:56:37][                      Class_Initialize()] Retriving SBO Application handle
+[09/16/2016 11:56:37][                      Class_Initialize()] Completed with SUCCESS
+[09/16/2016 11:56:37][                                  Main()] Calling AddMenuItems()
+[09/16/2016 11:56:37][                                  Main()] Calling SetApplication Function
+[09/16/2016 11:56:37][                                  Main()] Addon started successfully
+[09/16/2016 11:56:37][                                  Main()] Initializing Recordset 
+[09/16/2016 11:56:37][                                  Main()] Calling GetSystemIntializeInfo()
+[09/16/2016 11:56:37][                GetSystemIntializeInfo()] Starting Function
+[09/16/2016 11:56:37][                GetSystemIntializeInfo()] SQL-CRYSTALDETAILS  SELECT T0.[Code], T0.[Name] FROM [dbo].[@CRYSTALDETAILS]  T0
+[09/16/2016 11:56:37][                GetSystemIntializeInfo()] SQL-EMAIL  SELECT Top(1) T0.[U_SMTP], T0.[U_PORT], T0.[U_Email], T0.[U_Username], T0.[U_Password] FROM [dbo].[@AE_COMPANYDATA]  T0
+[09/16/2016 11:56:37][                GetSystemIntializeInfo()] SQL-EMAIL ID  SELECT T0.[GlblLocNum] FROM ADM1 T0
+[09/16/2016 11:56:37][                GetSystemIntializeInfo()] Completed with SUCCESS
+[09/16/2016 11:56:46][             SBO_Application_MenuEvent()] Starting function
+[09/16/2016 11:56:46][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[09/16/2016 11:56:46][             SBO_Application_MenuEvent()] Starting function
+[09/21/2016 11:43:58][                                  Main()] Starting Addon startup function
+[09/21/2016 11:43:58][                                  Main()] Initializing public SBO Application object
+[09/21/2016 11:43:58][                                  Main()] Retriving SBO application company handle
+[09/21/2016 11:43:58][                                  Main()] Retrived SBO application company handle
+[09/21/2016 11:43:58][                                  Main()] Calling ConnectDICompSSO()
+[09/21/2016 11:43:58][                      ConnectDICompSSO()] Starting function
+[09/21/2016 11:44:03][                      ConnectDICompSSO()] Completed with SUCCESS
+[09/21/2016 11:44:03][                                  Main()] Creating Event handler class
+[09/21/2016 11:44:03][                      Class_Initialize()] Starting function
+[09/21/2016 11:44:03][                      Class_Initialize()] Retriving SBO Application handle
+[09/21/2016 11:44:03][                      Class_Initialize()] Completed with SUCCESS
+[09/21/2016 11:44:03][                                  Main()] Calling AddMenuItems()
+[09/21/2016 11:44:03][                                  Main()] Calling SetApplication Function
+[09/21/2016 11:44:03][                                  Main()] Addon started successfully
+[09/21/2016 11:44:03][                                  Main()] Initializing Recordset 
+[09/21/2016 11:44:03][                                  Main()] Calling GetSystemIntializeInfo()
+[09/21/2016 11:44:03][                GetSystemIntializeInfo()] Starting Function
+[09/21/2016 11:44:03][                GetSystemIntializeInfo()] SQL-CRYSTALDETAILS  SELECT T0.[Code], T0.[Name] FROM [dbo].[@CRYSTALDETAILS]  T0
+[09/21/2016 11:44:03][                GetSystemIntializeInfo()] SQL-EMAIL  SELECT Top(1) T0.[U_SMTP], T0.[U_PORT], T0.[U_Email], T0.[U_Username], T0.[U_Password] FROM [dbo].[@AE_COMPANYDATA]  T0
+[09/21/2016 11:44:03][                GetSystemIntializeInfo()] SQL-EMAIL ID  SELECT T0.[GlblLocNum] FROM ADM1 T0
+[09/21/2016 11:44:03][                GetSystemIntializeInfo()] Completed with SUCCESS
+[09/21/2016 11:44:07][             SBO_Application_MenuEvent()] Starting function
+[09/21/2016 11:44:07][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[09/21/2016 11:44:07][             SBO_Application_MenuEvent()] Starting function
+[10/13/2016 17:52:54][                                  Main()] Starting Addon startup function
+[10/13/2016 17:52:54][                                  Main()] Initializing public SBO Application object
+[10/13/2016 17:52:54][                                  Main()] Retriving SBO application company handle
+[10/13/2016 17:52:55][                                  Main()] Retrived SBO application company handle
+[10/13/2016 17:52:55][                                  Main()] Calling ConnectDICompSSO()
+[10/13/2016 17:52:55][                      ConnectDICompSSO()] Starting function
+[10/13/2016 17:52:59][                      ConnectDICompSSO()] Completed with SUCCESS
+[10/13/2016 17:52:59][                                  Main()] Creating Event handler class
+[10/13/2016 17:52:59][                      Class_Initialize()] Starting function
+[10/13/2016 17:52:59][                      Class_Initialize()] Retriving SBO Application handle
+[10/13/2016 17:52:59][                      Class_Initialize()] Completed with SUCCESS
+[10/13/2016 17:52:59][                                  Main()] Calling AddMenuItems()
+[10/13/2016 17:53:00][                                  Main()] Calling SetApplication Function
+[10/13/2016 17:53:00][                                  Main()] Addon started successfully
+[10/13/2016 17:53:00][                                  Main()] Initializing Recordset 
+[10/13/2016 17:53:00][                                  Main()] Calling GetSystemIntializeInfo()
+[10/13/2016 17:53:00][                GetSystemIntializeInfo()] Starting Function
+[10/13/2016 17:53:00][                GetSystemIntializeInfo()] SQL-CRYSTALDETAILS  SELECT T0.[Code], T0.[Name] FROM [dbo].[@CRYSTALDETAILS]  T0
+[10/13/2016 17:53:00][                GetSystemIntializeInfo()] SQL-EMAIL ID  SELECT T0.[GlblLocNum] FROM ADM1 T0
+[10/13/2016 17:53:00][                GetSystemIntializeInfo()] Completed with SUCCESS
